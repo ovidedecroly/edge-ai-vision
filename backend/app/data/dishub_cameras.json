@@ -1,0 +1,770 @@
+[
+  {
+    "id": 2,
+    "name": "BALAIKOTA",
+    "district": "Pasar Kliwon",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/BalaiKota.flv",
+    "type": "http-flv",
+    "is_featured": true
+  },
+  {
+    "id": 3,
+    "name": "BALAPAN",
+    "district": "Banjarsari",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Balapan01.flv",
+    "type": "http-flv",
+    "is_featured": true
+  },
+  {
+    "id": 7,
+    "name": "BAWAH FLYOVER PURWOSARI",
+    "district": "Laweyan",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/BawahFlyoverPurwosari.flv",
+    "type": "http-flv",
+    "is_featured": true
+  },
+  {
+    "id": 9,
+    "name": "BUNDARAN GLADAG",
+    "district": "Pasar Kliwon",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Gladag.flv",
+    "type": "http-flv",
+    "is_featured": true
+  },
+  {
+    "id": 22,
+    "name": "GILINGAN",
+    "district": "Banjarsari",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Gilingan01.flv",
+    "type": "http-flv",
+    "is_featured": true
+  },
+  {
+    "id": 34,
+    "name": "KERTEN",
+    "district": "Laweyan",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Kerten.flv",
+    "type": "http-flv",
+    "is_featured": true
+  },
+  {
+    "id": 57,
+    "name": "PANGGUNG",
+    "district": "Jebres",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Panggung.flv",
+    "type": "http-flv",
+    "is_featured": true
+  },
+  {
+    "id": 59,
+    "name": "PASAR GEDE",
+    "district": "Pasar Kliwon",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/PasarGede.flv",
+    "type": "http-flv",
+    "is_featured": true
+  },
+  {
+    "id": 92,
+    "name": "UNS BARAT FIX",
+    "district": "Jebres",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/UNSBarat.flv",
+    "type": "http-flv",
+    "is_featured": true
+  },
+  {
+    "id": 1,
+    "name": "AGAS",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Agas.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 4,
+    "name": "BANJARSARI",
+    "district": "Banjarsari",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Banjarsari.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 5,
+    "name": "BARON",
+    "district": "Laweyan",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Baron.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 6,
+    "name": "BATURONO",
+    "district": "Pasar Kliwon",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/BatuRono.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 8,
+    "name": "BUNDARAN BARON",
+    "district": "Laweyan",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/BundaranBaron.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 10,
+    "name": "BUNDARAN JOGLO",
+    "district": "Banjarsari",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/PalangJoglo.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 11,
+    "name": "BUNDARAN TIPES",
+    "district": "Serengan",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/BundaranTipes.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 12,
+    "name": "CENGKLIK",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Cengklik.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 13,
+    "name": "DAWUNG SELATAN",
+    "district": "Serengan",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/DawungSelatan.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 14,
+    "name": "DPRD",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/DPRD.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 15,
+    "name": "FAJAR INDAH",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/FajarIndah.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 16,
+    "name": "FAROKAH",
+    "district": "Laweyan",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Farokah.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 17,
+    "name": "FLYOVER PURWOSARI",
+    "district": "Laweyan",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/FlyoverTimur.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 18,
+    "name": "GADING",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Gading.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 19,
+    "name": "GEMBLEGAN",
+    "district": "Serengan",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Gemblegan.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 20,
+    "name": "GENDENGAN",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Gendengan01.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 21,
+    "name": "GENENGAN",
+    "district": "Laweyan",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Genengan.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 23,
+    "name": "GIRIMULYO",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/GiriMulyo01.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 24,
+    "name": "JEMBATAN MOJO",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/JembatanMojo.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 25,
+    "name": "JEMBATAN TIRTONADI",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/JembatanTirtonadi.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 26,
+    "name": "JONGKE",
+    "district": "Laweyan",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Jongke.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 27,
+    "name": "JUANDA",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Juanda.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 28,
+    "name": "JURUG",
+    "district": "Jebres",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Jurug.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 29,
+    "name": "JURUG TIMUR FIX",
+    "district": "Jebres",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/JurugTimur.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 30,
+    "name": "KABANGAN",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Kabangan.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 31,
+    "name": "KANDANG SAPI",
+    "district": "Jebres",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/KandangSapi.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 32,
+    "name": "KAWATAN",
+    "district": "Serengan",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Kawatan.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 33,
+    "name": "KELURAHAN SUMBER",
+    "district": "Banjarsari",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/KelurahanSumber01.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 35,
+    "name": "KETANDAN",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Ketandan.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 36,
+    "name": "KLECO",
+    "district": "Laweyan",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Kleco.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 37,
+    "name": "KLODRAN",
+    "district": "Banjarsari",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Klodran.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 38,
+    "name": "KOMPLANG",
+    "district": "Banjarsari",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Komplang01.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 39,
+    "name": "LEBAK",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/MijipinilihanLor.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 40,
+    "name": "LOJI GANDRUNG",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/LojiGandrung.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 41,
+    "name": "MAKO BRIMOB",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Brimob01.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 42,
+    "name": "MAKUTHO",
+    "district": "Laweyan",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Makutho.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 43,
+    "name": "MASJID AGUNG",
+    "district": "Pasar Kliwon",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/MasjidAgung.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 44,
+    "name": "MIPITAN",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Mipitan.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 45,
+    "name": "MLIPAHAN",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Mlipahan.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 46,
+    "name": "MOJOSONGO",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Mojosongo.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 47,
+    "name": "MUJAHIDIN",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Mujahidin.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 48,
+    "name": "NGAPEMAN",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Ngapeman01.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 49,
+    "name": "NGEMPLAK",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Ngemplak.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 50,
+    "name": "NGEMPLAK BARAT",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/NgemplakBarat.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 51,
+    "name": "NGEMPLAK SELATAN",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/NgemplakSelatan.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 52,
+    "name": "NGEMPLAK TIMUR",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/NgemplakTimur.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 53,
+    "name": "NGEMPLAK UTARA",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/NgemplakUtara.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 54,
+    "name": "NONONGAN",
+    "district": "Serengan",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Nonongan.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 55,
+    "name": "OVERPASS MANAHAN",
+    "district": "Banjarsari",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/OverpassManahan.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 56,
+    "name": "PAJANG",
+    "district": "Laweyan",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Pajang.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 58,
+    "name": "PASAR BELING",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/PasarBeling.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 60,
+    "name": "PASAR KEMBANG",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/PasarKembang.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 61,
+    "name": "PASAR KLEWER",
+    "district": "Pasar Kliwon",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/PasarKlewer.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 62,
+    "name": "PASAR KLIWON",
+    "district": "Pasar Kliwon",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/PasarkKliwon.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 63,
+    "name": "PASAR LEGI",
+    "district": "Banjarsari",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/PasarLegi.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 64,
+    "name": "PASAR NONGKO",
+    "district": "Banjarsari",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/PasarNongko.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 65,
+    "name": "PASAR NUSUKAN",
+    "district": "Banjarsari",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/PasarNusukan.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 66,
+    "name": "PASAR PON",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/PasarPon01.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 67,
+    "name": "PENGADILAN SRIWEDARI",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/PengadilanSriwedari.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 68,
+    "name": "PGS",
+    "district": "Pasar Kliwon",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/PGS.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 69,
+    "name": "PUCANGSAWIT",
+    "district": "Jebres",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/GedungSerbagunaPucangsawit.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 70,
+    "name": "PURWOSARI",
+    "district": "Laweyan",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Purwosari.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 71,
+    "name": "RAHAYU",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Rahayu01.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 72,
+    "name": "RAMAYANA",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Ramayana.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 73,
+    "name": "RINGROAD",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/RingRoad.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 74,
+    "name": "SANGKRAH",
+    "district": "Pasar Kliwon",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Sangkrah.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 75,
+    "name": "SATE SUMBER",
+    "district": "Banjarsari",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/SateSumber01.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 76,
+    "name": "SEKARPACE",
+    "district": "Jebres",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Sekarpace.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 77,
+    "name": "SEKIP",
+    "district": "Banjarsari",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Sekip.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 78,
+    "name": "SEMANGGI",
+    "district": "Pasar Kliwon",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Semanggi.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 79,
+    "name": "SHOLIKIN",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Sholikin01.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 80,
+    "name": "SINGOSAREN",
+    "district": "Serengan",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Singosaren.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 81,
+    "name": "SMP 18",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Singosaren.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 82,
+    "name": "SPBU PUCANGSAWIT",
+    "district": "Jebres",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/SPBUPucangsawit.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 83,
+    "name": "SRATEN",
+    "district": "Serengan",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Sraten.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 84,
+    "name": "SRIWEDARI",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Sriwedari01.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 85,
+    "name": "SUDIRMAN",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Sudirman.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 86,
+    "name": "TIMURAN",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Timuran.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 87,
+    "name": "TIPES",
+    "district": "Serengan",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Tipes.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 88,
+    "name": "TIRTONADI",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Tirtonadi01.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 89,
+    "name": "TUGU CEMBENGAN",
+    "district": "Jebres",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Cembengan.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 90,
+    "name": "TUGU WISNU",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/TuguWisnu01.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 91,
+    "name": "UNS",
+    "district": "Jebres",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/UNS.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 93,
+    "name": "UNS TIMUR FIX",
+    "district": "Jebres",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/UNSTimur.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 94,
+    "name": "URSULIN",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Ursulin.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 95,
+    "name": "WARUNG PELEM",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/WarungPelem.flv",
+    "type": "http-flv",
+    "is_featured": false
+  },
+  {
+    "id": 96,
+    "name": "WIDURAN",
+    "district": "Surakarta Pusat",
+    "stream_url": "https://surakarta.atcsindonesia.info:8086/camera/Widuran.flv",
+    "type": "http-flv",
+    "is_featured": false
+  }
+]
